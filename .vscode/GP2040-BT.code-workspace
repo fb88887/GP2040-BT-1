@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cmake.configureEnvironment": {
+			"GP2040_BOARDCONFIG": "PicoW",
+			"SKIP_WEBBUILD": "TRUE",
+			"PICO_BOARD": "pico_w",
+			"PICO_SDK_PATH": "C:\\ws\\pico-sdk",
+			"SKIP_SUBMODULES": "TRUE"
+		}
+	}
+}
